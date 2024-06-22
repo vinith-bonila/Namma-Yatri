@@ -37,8 +37,8 @@ The analysis identified high-demand areas and peak times, enhancing resource all
 
 For further insights or discussions on this project, feel free to connect with me:
 
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/vinith-bonila-1510bv)
-- Instagram: [Instagram Handle](https://www.instagram.com/vinith_bonila?igsh=MWlzZGJkd3hkbmF3ZQ==)
+- LinkedIn: [Vinith Bonila](https://www.linkedin.com/in/vinith-bonila-1510bv)
+- Instagram: [vinith_bonila](https://www.instagram.com/vinith_bonila?igsh=MWlzZGJkd3hkbmF3ZQ==)
 
 Your feedback and suggestions are highly appreciated. If you find this repository valuable, don't forget to star ⭐ it!
 
